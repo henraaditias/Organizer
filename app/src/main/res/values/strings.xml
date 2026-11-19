@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Organizer</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">History</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="action_organize_all">Organize All</string>
+    <string name="action_organize">Organize</string>
+    <string name="action_add_folder">Add Source Folder</string>
+    <string name="action_retry_failed">Retry Failed</string>
+    <string name="notification_channel_name">File Organization</string>
+    <string name="notification_channel_desc">Shows progress while Organizer verifies and moves files locally.</string>
+    <string name="notification_action_cancel">Cancel</string>
+</resources>

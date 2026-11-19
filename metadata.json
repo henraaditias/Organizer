@@ -1,0 +1,6 @@
+{
+  "name": "Organizer",
+  "description": "Offline-first Android file organizer using Storage Access Framework, SHA-256 verification, dry-run previews, Room persistence, and WorkManager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
