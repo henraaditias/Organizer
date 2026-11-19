@@ -32,8 +32,8 @@ android {
         storePassword = System.getenv("STORE_PASSWORD")
         keyAlias = "upload"
         keyPassword = System.getenv("KEY_PASSWORD")
-        }
     }
+}
     create("debugConfig") {
       storeFile = file("${rootDir}/debug.keystore")
       storePassword = "android"
@@ -55,8 +55,8 @@ android {
 
     debug {
         // Gunakan debug signing bawaan Android Gradle Plugin.
-        }
     }
+}
   compileOptions {
     sourceCompatibility = JavaVersion.VERSION_11
     targetCompatibility = JavaVersion.VERSION_11
